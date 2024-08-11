@@ -1,0 +1,1 @@
+<h1 class="text-black dark:text-white font-bold">VividTutor</h1>
